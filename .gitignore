@@ -68,5 +68,5 @@ services.json
 agcs/static/img/favicon/
 *.swp
 \.rnd
-*.sqlite3
+*.sqlite3*
 *.db
